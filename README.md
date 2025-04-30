@@ -1,1 +1,1 @@
-The Odin Project first task.# odin-recipes
+The Odin Project first task.
